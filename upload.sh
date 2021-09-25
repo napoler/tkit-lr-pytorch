@@ -14,4 +14,4 @@ python setup.py bdist_wheel --universal # 打包为无需build的wheel。其中-
 #python3 setup.py install
 #上传
 # python3 setup.py sdist upload
-twine upload dist/*
+python -m twine upload dist/*

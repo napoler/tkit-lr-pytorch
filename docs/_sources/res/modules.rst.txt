@@ -1,7 +1,7 @@
-Demo
-====
+tkitLr
+======
 
 .. toctree::
    :maxdepth: 4
 
-   Demo
+   tkitLr

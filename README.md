@@ -1,2 +1,7 @@
-# 一个创建库的demo
-便于快速创建自己的第三方库
+# tkitLr
+Terry toolkit tkitLr，pytorch学习率优化方案合集
+
+
+## Pytorch Cyclic Cosine Decay Learning Rate Scheduler
+
+https://github.com/abhuse/cyclic-cosine-decay

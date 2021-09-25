@@ -1,13 +1,13 @@
-Demo package
-============
+tkitLr package
+==============
 
 Submodules
 ----------
 
-Demo.demo module
-----------------
+tkitLr.CyclicCosineDecayLR module
+---------------------------------
 
-.. automodule:: Demo.demo
+.. automodule:: tkitLr.CyclicCosineDecayLR
    :members:
    :undoc-members:
    :show-inheritance:
@@ -15,7 +15,7 @@ Demo.demo module
 Module contents
 ---------------
 
-.. automodule:: Demo
+.. automodule:: tkitLr
    :members:
    :undoc-members:
    :show-inheritance:
